@@ -29,6 +29,7 @@ public class baseTest {
         }
     }
 
+
 //    public class loginPassword extends loginEmail {
 //        String URL_login_password = "https://bitly.com.vn/4ykkib";
 //        String passwordTxt = "//body/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/span[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]";
